@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/usr/bin/env bash
 # script to run audit while populating local host data
 # 13th Sept 2021 - Initial
 # 9th Nov 2021 - Added root user check - more posix compliant for multiple OS types
